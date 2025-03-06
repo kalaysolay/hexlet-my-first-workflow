@@ -1,2 +1,2 @@
-make say-hello
-Hello, WOrld!
+say-hello:
+	echo "Hello, WOrld!""
